@@ -1,0 +1,24 @@
+{
+  "name": "koaweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "co": "^4.6.0",
+    "koa": "^2.0.0-alpha.8",
+    "koa-convert": "^1.2.0",
+    "koa-simple-router": "^0.2.0",
+    "koa-static": "^4.0.2",
+    "koa-swig": "^2.2.1",
+    "path": "^0.12.7"
+  }
+}
